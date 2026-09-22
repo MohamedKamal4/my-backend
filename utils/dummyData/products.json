@@ -1,0 +1,2777 @@
+[
+    {
+        "name": "BASIC HOODIE Napped Featuring",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Cotton hoodie with a napped interior. Featuring an adjustable hood, long sleeves, a front pouch pocket and ribbed trims.",
+        "price_with_discount": 249.99,
+        "orignal_price": 299.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 318,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/dada/4678/999b4378a5ce/3590f66826dc/04393350807-e1/04393350807-e1.jpg?ts=1722871774113&w=245",
+        "sub_category": "6a81372d98ee089f587ddccf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 2,
+        "reviews": []
+    },
+    {
+        "name": "TECHNICAL HOODIE Compact Hood",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit hoodie crafted in compact stretch cotton fabric. Featuring an adjustable hood and short sleeves with matching label appliquÃ© detail. Hem with side vents.",
+        "price_with_discount": 279.99,
+        "orignal_price": 319.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 267,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/e654/2f74/998c406da829/5d1ad8a3a57f/00761304800-e1/00761304800-e1.jpg?ts=1747725239342&w=245",
+        "sub_category": "6a81375e65cc2f8fa133afbf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 4,
+        "reviews": []
+    },
+    {
+        "name": "HOODIE WITH RAW EDGES Interior Hooded",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit sweatshirt made of cotton fabric with a fleece interior. Hooded neck and long sleeves. Concealed pockets in the side seam. Raw edges. Zip fastening on the front.",
+        "price_with_discount": 309.99,
+        "orignal_price": 349.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 186,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/5858/fa35/9d6c4bbaaafd/aa90403cc777/04393426803-e1/04393426803-e1.jpg?ts=1742224735604&w=245",
+        "sub_category": "6a81375e65cc2f8fa133afbf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 2,
+        "reviews": []
+    },
+    {
+        "name": "TECHNICAL HOODIE RELAXED FIT Adjustable Appliqu",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit hoodie in compact stretch cotton fabric. Features an adjustable hood and short sleeves with a matching label appliquÃ© detail. Hem with side vents.",
+        "price_with_discount": 289.99,
+        "orignal_price": 329.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 174,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/6677/90e8/38ea46eaa72d/5b4fb1c10627/00761351832-e1/00761351832-e1.jpg?ts=1744112898146&w=245",
+        "sub_category": "6a81375e65cc2f8fa133afbf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 3.4,
+        "reviews": []
+    },
+    {
+        "name": "WASHED HOODIE Looped Effect",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy fit hoodie made from cotton fabric with a looped lining. Hooded neck and drop shoulder sleeves. Front kangaroo pocket. Ribbed trims. Washed effect.",
+        "price_with_discount": 319.99,
+        "orignal_price": 359.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 201,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/b6f9/5533/d4c640c6827d/58df9c59fb10/04729407507-e1/04729407507-e1.jpg?ts=1745306741750&w=245",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 1,
+        "reviews": []
+    },
+    {
+        "name": "RELAXED FIT CONTRAST SWEATSHIRT Featuring Piping",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit sweatshirt featuring an adjustable hood, long sleeves, contrast piping details, and ribbed trims for a modern finish.",
+        "price_with_discount": 299.99,
+        "orignal_price": 339.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 186,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/a40d/2971/bec246d3989a/27339ea66c06/05644819401-e1/05644819401-e1.jpg?ts=1741339465218&w=245",
+        "sub_category": "6a81375e65cc2f8fa133afbf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 2.5,
+        "reviews": []
+    },
+    {
+        "name": "SLOGAN HOODIE Lining Give",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy fit hoodie made from cotton fabric with a looped lining. Featuring an adjustable hood and long sleeves. Contrast slogan print on the back. Ribbed trims and a washed effect give it a unique appearance thanks to its special washing treatment.",
+        "price_with_discount": 309.99,
+        "orignal_price": 349.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 173,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/6eca/56c9/678a45a496e9/0bd924900435/04729409802-e1/04729409802-e1.jpg?ts=1745306751144&w=245",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 3.5,
+        "reviews": []
+    },
+    {
+        "name": "BOXY FIT HOODIE Hooded Edge",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy relaxed fit hoodie with a hooded neck and long sleeves. Features raw edges and a washed effect for a casual worn-in style.",
+        "price_with_discount": 299.99,
+        "orignal_price": 329.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 142,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/a0f7/1947/23114cd3a2b4/9c4a41c30b04/04087420700-e1/04087420700-e1.jpg?ts=1739457883923&w=245",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 1.6,
+        "reviews": []
+    },
+    {
+        "name": "BASIC HOODIE Hood Comfort",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Cotton hoodie with a soft napped interior. Designed with an adjustable hood, long sleeves, front pouch pocket, and ribbed trims for extra comfort.",
+        "price_with_discount": 269.99,
+        "orignal_price": 299.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 198,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/33be/8e5c/f1d54e40b133/5329e6b4f2c0/04393350251-e1/04393350251-e1.jpg?ts=1739197190724&w=245",
+        "sub_category": "6a81372d98ee089f587ddccf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 1.1,
+        "reviews": []
+    },
+    {
+        "name": "WASHED PRINTED ZIP-UP HOODIE Pouch Garment",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy fit hoodie crafted from cotton fabric with a soft napped interior. Features an adjustable hood, long sleeves, a front pouch pocket, contrast print on the front, ribbed trims, and front zip fastening. The garment has a unique appearance due to special washing treatment.",
+        "price_with_discount": 289.99,
+        "orignal_price": 319.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 157,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/c6f0/9aeb/daf2430c85fe/442db6b3dac4/00039301800-e1/00039301800-e1.jpg?ts=1736241139942&w=245",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 1.1,
+        "reviews": []
+    },
+    {
+        "name": "LUXURY BASIC HOODIE Extra Softnes",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Cotton hoodie with a brushed interior for extra softness. Features an adjustable hood, long sleeves, front pouch pocket, contrast logo appliquÃ© on the chest, and ribbed trims. Part of the Zara Athleticz collection.",
+        "price_with_discount": 309.99,
+        "orignal_price": 349.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 142,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.zara.net/assets/public/8621/95ff/704a4613a313/7225d8869ea3/00761317800-e1/00761317800-e1.jpg?ts=1725259929282&w=245",
+        "sub_category": "6a81372d98ee089f587ddccf",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 3.4,
+        "reviews": []
+    },
+    {
+        "name": "Cars Boxy Fit Hooded Sweatshirt Bold Bold",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Bold boxy hoodie featuring a nostalgic cars-themed graphic. Designed with an oversized hood, dropped shoulders, and ribbed cuffs for relaxed streetwear comfort. Perfect for a standout, urban-inspired look.",
+        "price_with_discount": 279.99,
+        "orignal_price": 319.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 127,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.bershka.net/assets/public/ca25/b96d/9f414ce4ac8b/b5f6e6029205/02245538812-a4o/02245538812-a4o.jpg?ts=1733325045025&w=800",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 2.9,
+        "reviews": []
+    },
+    {
+        "name": "Boxy Fit Print Hoodie Print Offering",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Oversized hoodie with a bold front print, offering a street-style edge. Designed in a boxy silhouette with a drawstring hood, ribbed cuffs, and a soft brushed interior for all-day comfort.",
+        "price_with_discount": 289.99,
+        "orignal_price": 329.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 138,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.bershka.net/assets/public/143b/8425/fe244905b95b/a7b24476e43d/07414498812-a4o/07414498812-a4o.jpg?ts=1729696236583&w=800",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 1.9,
+        "reviews": []
+    },
+    {
+        "name": "Printed Oversize Hoodie Statement Dropped",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Oversized hoodie featuring a statement graphic print. Designed with dropped shoulders, an adjustable drawstring hood, and a soft fleece interior for a cozy and modern streetwear look.",
+        "price_with_discount": 299.99,
+        "orignal_price": 339.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 151,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.bershka.net/assets/public/5b0c/eb4a/cf38489f9d32/27894fd1ea82/02225190807-a4o/02225190807-a4o.jpg?ts=1732627822292&w=800",
+        "sub_category": "6a81380b2d36eac4e28cbe3a",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 4.6,
+        "reviews": []
+    },
+    {
+        "name": "Boxy Fit Print Hoodie Boxy Fit Catching Catching",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy fit hoodie with eye-catching front print. Made from soft cotton fabric with ribbed trims, dropped shoulders, and a brushed interior. Designed for casual comfort with a modern edge.",
+        "price_with_discount": 284.99,
+        "orignal_price": 324.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 127,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.bershka.net/assets/public/9859/91b9/02704a3aa95f/e0bc2a92e4a5/07426003809-a4o/07426003809-a4o.jpg?ts=1729194685138&w=800",
+        "sub_category": "6a8136589bddcf3106c5960c",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 3.6,
+        "reviews": []
+    },
+    {
+        "name": "Embroidered Oversize Hoodie Includes Include",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Oversized hoodie made from soft cotton fabric, featuring an embroidered graphic on the front for a bold style statement. Includes an adjustable hood, dropped shoulders, and ribbed trims for maximum comfort.",
+        "price_with_discount": 299.99,
+        "orignal_price": 339.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 118,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.bershka.net/assets/public/b0cf/f7e0/262e4fdea214/4dab721b72b5/07418190707-a4o/07418190707-a4o.jpg?ts=1730285782278&w=800",
+        "sub_category": "6a81380b2d36eac4e28cbe3a",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 4.7,
+        "reviews": []
+    },
+    {
+        "name": "Printed Oversize Luxery Hoodie Feel Feel",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Oversized hoodie with a soft cotton feel and bold printed graphics on the front and back. Designed for streetwear lovers, it features a relaxed silhouette, adjustable hood, long sleeves, and ribbed cuffs and hem for comfort.",
+        "price_with_discount": 289.99,
+        "orignal_price": 329.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 134,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "Image_Cover": "https://static.bershka.net/assets/public/fb82/2cb8/e8d140c8aa05/95c61e93123a/07431696401-a4o/07431696401-a4o.jpg?ts=1731491424799&w=800",
+        "sub_category": "6a81380b2d36eac4e28cbe3a",
+        "main_category": "6a813613c248c8f0cb060a62",
+        "rating_average": 1.1,
+        "reviews": []
+    },
+    {
+        "name": "Jacket with Contrast Collar Buttoned Flap",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 12,
+        "descraption": "Lightweight cotton jacket with a soft contrast corduroy collar. Designed with buttoned cuffs, front flap pockets, and a vintage-inspired cut. Perfect for transitional weather.",
+        "price_with_discount": 69.99,
+        "orignal_price": 89.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 742,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.bershka.net/assets/public/e5ba/2c10/237c49ee82f1/4d2988eaa2b0/01578335742-a4o/01578335742-a4o.jpg?ts=1738670518893&w=800",
+        "rating_average": 4.1,
+        "reviews": []
+    },
+    {
+        "name": "Felt Texture Jacket Dense Dense",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Structured jacket crafted from dense felt fabric with a subtle brushed finish. Features a front zip closure, pointed collar, and discreet side pockets. Ideal for office wear or layering on cool evenings.",
+        "price_with_discount": 74.99,
+        "orignal_price": 99.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 638,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c6b598ebcbd04de610a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.bershka.net/assets/public/ba42/7186/22c04339b86e/dcdc8f4972c1/01563758800-a4o/01563758800-a4o.jpg?ts=1738139768901&w=800",
+        "rating_average": 3.9,
+        "reviews": []
+    },
+    {
+        "name": "Felt Texture Jacket Felt Felt",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Modern felt jacket with a slim silhouette and clean lines. Designed with a minimal aesthetic, smooth zip fastening, and a soft-touch finish. Suitable for 6a813c6b598ebcbd04de610a layering or city commutes.",
+        "price_with_discount": 64.99,
+        "orignal_price": 84.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 589,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c6b598ebcbd04de610a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.bershka.net/assets/public/0665/5384/ba314e679ab1/3415c63c21f9/06807046743-a4o/06807046743-a4o.jpg?ts=1727792903759&w=800",
+        "rating_average": 4.3,
+        "reviews": []
+    },
+    {
+        "name": "Rustic Overshirt with Zip Rustic Rustic",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Overshirt-style jacket with a rustic texture and front zip closure. Designed with a structured collar, dropped shoulders, and dual side-entry pockets. Ideal for 6a813c47598ebcbd04de6109 days with a rugged touch.",
+        "price_with_discount": 59.99,
+        "orignal_price": 79.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 712,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.bershka.net/assets/public/f875/1d01/a768434cbd96/f7a223801ddd/01601703711-a4o/01601703711-a4o.jpg?ts=1738860239247&w=800",
+        "rating_average": 4,
+        "reviews": []
+    },
+    {
+        "name": "Puffer Gilet Puffer Puffer",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Lightweight puffer gilet with a high collar and zip-up front. Features quilted padding for warmth without bulk, and functional side pockets. Perfect for layering over hoodies or sweaters.",
+        "price_with_discount": 49.99,
+        "orignal_price": 64.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 813,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813ca706b6ca803a19356a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.bershka.net/assets/public/5d96/444a/9c954a7284c8/a208c921f76a/08616551800-a4o/08616551800-a4o.jpg?ts=1721747275554&w=800",
+        "rating_average": 3.9,
+        "reviews": []
+    },
+    {
+        "name": "FAUX SUEDE VARSITY JACKET WITH PATCHES Varsity Varsity",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Varsity jacket made of faux suede fabric. Lapel collar and long sleeves. Welt pockets at the hip and an inside pocket. Contrast patch and embroidery appliquÃ©s on the front. Ribbed trims. Snap-button fastening at the front.",
+        "price_with_discount": 89.99,
+        "orignal_price": 119.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 691,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c6b598ebcbd04de610a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/e4ef/04d0/dd2e4b4b9b26/11cee2db8d18/06318401251-e1/06318401251-e1.jpg?ts=1735549646894&w=245",
+        "rating_average": 4.8,
+        "reviews": []
+    },
+    {
+        "name": "SOFT JACKET WITH POCKETS Velvety Velvety",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket in a velvety soft fabric. Featuring a lapel collar, long sleeves, hip patch pockets with flaps, an interior pocket and ribbed trims. Zip fastening at the front.",
+        "price_with_discount": 84.99,
+        "orignal_price": 109.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 678,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/e87f/3fe5/549d40cb8d0c/4e6eb336feb6/07380621802-e1/07380621802-e1.jpg?ts=1737995289190&w=245",
+        "rating_average": 4.6,
+        "reviews": []
+    },
+    {
+        "name": "100% LINEN JACKET Lapel Welt",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit linen jacket. Featuring a lapel collar, long sleeves with buttoned cuffs, welt pockets at the hip and a zip-up front.",
+        "price_with_discount": 94.99,
+        "orignal_price": 129.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 534,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c6b598ebcbd04de610a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/bd3d/599f/481e4790babd/3f2d0dfab523/00706174250-e1/00706174250-e1.jpg?ts=1750233462277&w=245",
+        "rating_average": 1.4,
+        "reviews": []
+    },
+    {
+        "name": "WAXED-EFFECT JACKET Waxed Waxed",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket in waxed fabric. Featuring a lapel collar, long sleeves with snap-button cuffs, patch pockets on the chest and at the hip, a faded effect and concealed zip fastening under the placket.",
+        "price_with_discount": 79.99,
+        "orignal_price": 109.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 613,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813ca706b6ca803a19356a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/7a1b/329a/925744dc9d46/bb2e06214d54/08281420407-e1/08281420407-e1.jpg?ts=1737456474920&w=245",
+        "rating_average": 2.6,
+        "reviews": []
+    },
+    {
+        "name": "TEXTURED CHECK OVERSHIRT Collared Collared",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Regular fit overshirt made of textured fabric. Featuring a collared neckline, long sleeves with buttoned cuffs, side slits at the hem and a button-up front.",
+        "price_with_discount": 69.99,
+        "orignal_price": 94.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 558,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/bd07/aa58/4457497e8850/f5fee50bb4c8/00706330087-e1/00706330087-e1.jpg?ts=1737028983732&w=245",
+        "rating_average": 2.1,
+        "reviews": []
+    },
+    {
+        "name": "BOXY FIT OVERSHIRT Patch Patch",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy fit overshirt. Lapel collar and long sleeves with buttoned cuffs. Patch pockets on the chest and side pockets on the hips. Button-up front.",
+        "price_with_discount": 64.99,
+        "orignal_price": 89.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 487,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/9ef3/88a5/ad4345368b50/25950476393b/06861454802-e1/06861454802-e1.jpg?ts=1732185537713&w=245",
+        "rating_average": 2.9,
+        "reviews": []
+    },
+    {
+        "name": "TEXTURED COMFORT OVERSHIRT Neckline Neckline",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit overshirt made from stretch fabric. Featuring a collared neckline, long sleeves with buttoned cuffs, flap patch pockets on the chest and welt pockets on the hips. Button-up front.",
+        "price_with_discount": 74.99,
+        "orignal_price": 99.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 541,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/9bdf/b6da/0e2a457d9f89/87354a393056/04333400506-e1/04333400506-e1.jpg?ts=1736432638881&w=245",
+        "rating_average": 2.9,
+        "reviews": []
+    },
+    {
+        "name": "TEXTURED ZIP-UP OVERSHIRT Regular Distinct",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Regular fit overshirt made from textured fabric. Featuring a collar, long sleeves with buttoned cuffs, side pockets at the hip and a zip-up front.",
+        "price_with_discount": 69.99,
+        "orignal_price": 94.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 489,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/38c5/1b72/efce4e23bd7c/0d1951b74f6b/00706469801-e1/00706469801-e1.jpg?ts=1735808169151&w=245",
+        "rating_average": 2.1,
+        "reviews": []
+    },
+    {
+        "name": "VISCOSE BLEND OVERSHIRT Chest Chest",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Regular fit overshirt made of a viscose blend fabric. Featuring a collared neckline, long sleeves with buttoned cuffs, a chest patch pocket, adjustable hem with front drawstrings and a button-up front.",
+        "price_with_discount": 72.99,
+        "orignal_price": 99.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 502,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c47598ebcbd04de6109",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/b5a5/d09a/92b047fd8164/389145cfd8c0/03046387712-e1/03046387712-e1.jpg?ts=1739457880221&w=245",
+        "rating_average": 3.7,
+        "reviews": []
+    },
+    {
+        "name": "PADDED DENIM JACKET Cropped Cropped",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Cropped fit jacket made of padded denim. Lapel collar and long sleeves. Welt pockets at the hip. Interior pocket detail. Washed effect. Ribbed trims. Zip fastening at the front.",
+        "price_with_discount": 88.99,
+        "orignal_price": 114.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 622,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813ca706b6ca803a19356a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/b5f5/4d0e/b82c4437bdaf/7452d9c1e396/04470423407-e1/04470423407-e1.jpg?ts=1736354274354&w=245",
+        "rating_average": 4.9,
+        "reviews": []
+    },
+    {
+        "name": "OPEN STRUCTURE HOODED JACKET Open Open",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket made in a fabric with an open structure. Featuring a hooded collar and long sleeves. Kangaroo front pocket. Elastic trims. Zip-up front.",
+        "price_with_discount": 79.99,
+        "orignal_price": 104.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 573,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813ca706b6ca803a19356a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/2a34/469f/fefe49eb9b6f/4ef0f517af72/06085413600-e1/06085413600-e1.jpg?ts=1746171054090&w=245",
+        "rating_average": 3.7,
+        "reviews": []
+    },
+    {
+        "name": "LEATHER EFFECT JACKET Effect Elasticated",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket in a leather effect fabric. Lapel collar and long sleeves. Welt pockets at the hip. Elasticated trims. Zip-up fastening.",
+        "price_with_discount": 84.99,
+        "orignal_price": 109.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 618,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c6b598ebcbd04de610a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/8fb8/c862/578b4b0fbd29/27e8ca426244/03046404802-e1/03046404802-e1.jpg?ts=1735549645133&w=245",
+        "rating_average": 3.6,
+        "reviews": []
+    },
+    {
+        "name": "WASHED BOMBER JACKET Lightly Lightly",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket crafted from lightly padded cotton fabric. Featuring a lapel collar, long sleeves, a zipped chest pocket, welt pockets at the hip, an inside pocket, a washed effect, ribbed trims and a zip-up front.",
+        "price_with_discount": 86.99,
+        "orignal_price": 112.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 639,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813ca706b6ca803a19356a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/6178/e407/2d1f4645b9c2/3455029b9cc3/08281302756-e1/08281302756-e1.jpg?ts=1733918709725&w=245",
+        "rating_average": 3.9,
+        "reviews": []
+    },
+    {
+        "name": "WASHED PADDED JACKET Padded Zipped",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket crafted from padded cotton fabric. Featuring a lapel collar, long sleeves with buttoned cuffs, zipped chest and hip pockets, a washed effect and a zip-up front.",
+        "price_with_discount": 92.99,
+        "orignal_price": 119.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 582,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813ca706b6ca803a19356a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/4c4b/4dfa/f4bd489eb64f/357e4e190eab/01538412030-e1/01538412030-e1.jpg?ts=1740134060108&w=245",
+        "rating_average": 1.2,
+        "reviews": []
+    },
+    {
+        "name": "CROPPED FIT JACKET Welt Distinctb",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit jacket made from a lightweight fabric with viscose. Lapel collar and long sleeves with buttoned cuffs. Welt pockets on the hips. Zip-up front.",
+        "price_with_discount": 74.99,
+        "orignal_price": 99.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 544,
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a813c6b598ebcbd04de610a",
+        "main_category": "6a813bec4d27c3cb752cf94d",
+        "Image_Cover": "https://static.zara.net/assets/public/6389/80eb/24bd487eba37/5d3a56e6b82b/04272672800-e1/04272672800-e1.jpg?ts=1739204513783&w=245",
+        "rating_average": 3.6,
+        "reviews": []
+    },
+    {
+        "name": "Slim Fit Cotton chinos pants Chinos Chino",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Chinos in stretch cotton twill with a zip fly and button, diagonal side pockets and welt back pockets with a button. Slim fit that hugs the contours of your body, creating a fitted silhouette.",
+        "price_with_discount": 189.99,
+        "orignal_price": 249.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 342,
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a814056491fc9594dd18856",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/4f29/cd65/7c9448d0a0b7/a3847cfc5cb8/01564301800-e1/01564301800-e1.jpg?ts=1723200206299&w=321",
+        "rating_average": 4.1,
+        "reviews": []
+    },
+    {
+        "name": "STRAIGHT FIT pants jeans Ankle Ankle",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Straight leg from hip to ankle, with a fit that neither tapers nor widens. Mid-rise. Rigid fabric. Slightly looser than our Regular Straight Fit. Five pockets. Faded effect. Button fly.",
+        "price_with_discount": 79.99,
+        "orignal_price": 99.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 567,
+        "sizes": [
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/3b92/1bb5/8d074f6baf92/384bac8cd563/08062410406-e1/08062410406-e1.jpg?ts=1738841344987&w=800",
+        "rating_average": 4.1,
+        "reviews": []
+    },
+    {
+        "name": "Loose Fit Tailored Trousers  Woven Trouser",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Trousers in woven fabric with a zip fly and an extended waistband with a concealed button and hook-and-bar fastener. Side pockets, jetted back pockets with a button and legs with creases. Loose fit for a generous but not oversized silhouette.",
+        "price_with_discount": 225,
+        "orignal_price": "280",
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 198,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814056491fc9594dd18856",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/d653/1c39/845747c19ead/c5c812459761/00706650811-e1/00706650811-e1.jpg?ts=1745938529154&w=321",
+        "rating_average": 3.4,
+        "reviews": []
+    },
+    {
+        "name": "STRAIGHT FIT JEANS Neither Neither",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Straight leg from hip to ankle, with a fit that neither tapers nor widens. Mid-rise. Rigid fabric.",
+        "price_with_discount": 145,
+        "orignal_price": 175,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 423,
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/1662/d7fc/3a8244978a1d/42a4424c9aa2/04365420822-e1/04365420822-e1.jpg?ts=1738841337155&w=419",
+        "rating_average": 2.5,
+        "reviews": []
+    },
+    {
+        "name": "Regular Fit Tailored linen-blend trousers Airy Airy",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Trousers in an airy weave made from a lyocell and linen blend. Zip fly and an extended waistband with a concealed hook-and-bar fastener and a button. Diagonal side pockets, jetted back pockets with a button and long legs with creases. Regular fit for comfortable wear and a classic silhouette.",
+        "price_with_discount": 295,
+        "orignal_price": 350,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 156,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a814056491fc9594dd18856",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/c543/e8b7/4ef84976b4b4/fe2a48ff897c/01195326515-e1/01195326515-e1.jpg?ts=1747930157744&w=321",
+        "rating_average": 4.7,
+        "reviews": []
+    },
+    {
+        "name": "SLIM FIT JEANS Rise Rise",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Fitted to the top from the waist to the ankle. Mid-rise. Stretch fabric. Five pockets. Washed effect. Front zip and button fastening.",
+        "price_with_discount": 89.99,
+        "orignal_price": 119.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 634,
+        "sizes": [
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/a95e/e848/bc5a4a32a743/9f5f290d2ef1/05575460250-e1/05575460250-e1.jpg?ts=1740133767398&w=245",
+        "rating_average": 3.8,
+        "reviews": []
+    },
+    {
+        "name": "Boardroom Elite Wool Trousers Tailored Tailored",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Tailored trousers in a soft weave with a zip fly and button, side pockets and jetted back pockets with a button. Legs with creases. Slim fit that hugs the contours of your body, creating a fitted silhouette.",
+        "price_with_discount": 349,
+        "orignal_price": 425,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 89,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a814056491fc9594dd18856",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/578d/11f2/9d8444a898aa/c67d24655c3f/06861441800-e1/06861441800-e1.jpg?ts=1739789686783&w=321",
+        "rating_average": 1,
+        "reviews": []
+    },
+    {
+        "name": "Multi-cargo baggy trousers Work Work",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "We work with our suppliers to improve the traceability of our supply chain and of the facilities and processes that are used to manufacture our garments. We follow a principle of continual improvement and collaboration to protect human and labour rights and to improve the well-being of workers and their communities.",
+        "price_with_discount": 165,
+        "orignal_price": 210,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 278,
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/1fcb/00fd/b8214f1ba7a7/745faafb3dc7/00403665800-a4o/00403665800-a4o.jpg?ts=1737371877757&w=800",
+        "rating_average": 4.1,
+        "reviews": []
+    },
+    {
+        "name": "COMFORT SUIT TROUSERS Rear Rear",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Slim fit trousers in viscose fabric. Front pockets and rear welt pockets. Zip fly and top button fastening.",
+        "price_with_discount": 275,
+        "orignal_price": 325,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 145,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814056491fc9594dd18856",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/098f/29b2/d8fd41e5b3c0/ef09722d6957/01564301401-e1/01564301401-e1.jpg?ts=1723200237436&w=321",
+        "rating_average": 2.4,
+        "reviews": []
+    },
+    {
+        "name": "Skater jeans Caring Extend",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Caring for your garments is a way to extend their useful life. Follow the care instructions and only wash your garments when necessary. Washing and drying our garments less often extends their lives and reduces water and energy use.",
+        "price_with_discount": 95,
+        "orignal_price": 125,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 512,
+        "sizes": [
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/6f73/0e66/b810490698e1/ab9242eee559/05342171428-a4o/05342171428-a4o.jpg?ts=1740127957275&w=800",
+        "rating_average": 2.9,
+        "reviews": []
+    },
+    {
+        "name": "TEXTURED COMFORT TROUSERS Stretchy Stretchy",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Slim-fit trousers made of two-way stretchy fabric. Front pockets and rear welt pockets with button detail. Front zip fly and top button fastening.",
+        "price_with_discount": 185,
+        "orignal_price": 235,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 203,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/bf8b/b74d/b64b4f2eb6bd/11d35a9e3ed5/06861106251-e1/06861106251-e1.jpg?ts=1745935869268&w=321",
+        "rating_average": 2.9,
+        "reviews": []
+    },
+    {
+        "name": "Super baggy jeans Commanding Commanding",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Commanding presence meets exceptional comfort in these corporate suit pants. Engineered for long boardroom sessions with wrinkle-resistant fabric and a powerful silhouette that projects authority.",
+        "price_with_discount": 215,
+        "orignal_price": 270,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 167,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/e331/180b/421747dfb7b2/9bc2b8b688f8/05340666809-a4o/05340666809-a4o.jpg?ts=1737533869381&w=800",
+        "rating_average": 2.2,
+        "reviews": []
+    },
+    {
+        "name": "Lenin RELAXED FIT TEXTURED TROUSERS Elasticated Drawstring",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Textured cotton trousers. Featuring an elasticated drawstring waistband, side pockets and rear welt pockets.",
+        "price_with_discount": 135,
+        "orignal_price": 165,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 289,
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/eda5/c944/22244fda8c0c/5db0dfd0f719/04575406506-e1/04575406506-e1.jpg?ts=1740673218573&w=321",
+        "rating_average": 2.2,
+        "reviews": []
+    },
+    {
+        "name": "Baggy jeans with patches Essential International",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Essential travel trousers designed for the international business professional. Features advanced wrinkle-free technology, packable design, and versatile styling suitable for any global destination.",
+        "price_with_discount": 125,
+        "orignal_price": 155,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 456,
+        "sizes": [
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/c028/0e82/c7f54c1882ba/78e07c1766b0/00345179809-a4o/00345179809-a4o.jpg?ts=1737991576171&w=800",
+        "rating_average": 1.3,
+        "reviews": []
+    },
+    {
+        "name": "TEXTURED COMFORT TROUSERS Fastening Distinctc",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Slim-fit trousers made of two-way stretchy fabric. Front pockets and rear welt pockets with button detail. Front zip fly and top button fastening.",
+        "price_with_discount": 155,
+        "orignal_price": 195,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 378,
+        "sizes": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/8276/5920/4b7d46838879/c4af292e40d5/09871411250-e1/09871411250-e1.jpg?ts=1732797321862&w=321",
+        "rating_average": 4.5,
+        "reviews": []
+    },
+    {
+        "name": "Baggy printed jeans Exclusive Exclusive",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Exclusive designer trousers from our signature collection. Features unique architectural details, premium European fabrics, and limited-edition styling that sets you apart from conventional business wear.",
+        "price_with_discount": 385,
+        "orignal_price": 475,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 67,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/15ec/a757/b4384dcb98f3/53b1cd5ae7db/00337335809-a4o/00337335809-a4o.jpg?ts=1736431978265&w=800",
+        "rating_average": 3.1,
+        "reviews": []
+    },
+    {
+        "name": "LINEN BLEND TROUSERS Highly Highly",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Trousers made from highly elastic fabric. Featuring an elastic waistband, front pockets and rear welt pockets. Zip fly and top button fastening.",
+        "price_with_discount": 165,
+        "orignal_price": 205,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 234,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/422d/21af/301341969248/c0b3d3bd990f/08574303250-e1/08574303250-e1.jpg?ts=1737995151045&w=563",
+        "rating_average": 4,
+        "reviews": []
+    },
+    {
+        "name": "Baggy cargo jeans Sophisticated Dres",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Sophisticated dress pants designed for diplomatic and international settings. Features understated elegance, cultural sensitivity in design, and exceptional quality befitting global professionals.",
+        "price_with_discount": 245,
+        "orignal_price": 295,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 112,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/f228/52e9/821f40ffa3b1/be8baf6e5296/05336335712-a4o/05336335712-a4o.jpg?ts=1717157718556&w=800",
+        "rating_average": 3.3,
+        "reviews": []
+    },
+    {
+        "name": "100% HEMP RELAXED FIT TROUSERS Waistband Waistband",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit trousers made from hemp fabric. Elasticated waistband adjustable with inner drawstring. Front pockets and rear patch pocket detail. Button-up fastening at the front.",
+        "price_with_discount": 115,
+        "orignal_price": 145,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 489,
+        "sizes": [
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814056491fc9594dd18856",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.zara.net/assets/public/4c62/9810/1caa44bc9095/655d690a6c2d/05344410807-e1/05344410807-e1.jpg?ts=1750173936074&w=563",
+        "rating_average": 3.8,
+        "reviews": []
+    },
+    {
+        "name": "Baggy cargo jeans Expressive Expressive",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Expressive yet professional trousers for creative industries. Features unique fabric textures, subtle design elements, and comfortable fits that support creativity while maintaining professional standards.",
+        "price_with_discount": 135,
+        "orignal_price": 170,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 298,
+        "sizes": [
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "36",
+            "38"
+        ],
+        "Images": [],
+        "sub_category": "6a814032a808bb21c14cd868",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/98ab/f2ad/23e6402fb7ea/8ed7ca031ed5/05339352800-a4o/05339352800-a4o.jpg?ts=1740135765096&w=800",
+        "rating_average": 1.1,
+        "reviews": []
+    },
+    {
+        "name": "Balloon fit trousers Specifically Specifically",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Premium trousers crafted specifically for banking professionals. Features conservative styling, exceptional durability, and the refined appearance expected in financial institutions worldwide.",
+        "price_with_discount": 285,
+        "orignal_price": 340,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 134,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a81401ce34194d2fcd0ab63",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/d3b0/deae/6f104a8b949c/1fde95601e2e/00463478812-a4o/00463478812-a4o.jpg?ts=1742552598544&w=320",
+        "rating_average": 4.8,
+        "reviews": []
+    },
+    {
+        "name": "Jogger baggy trousers Versatile Versatile",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Versatile premium trousers designed for management consultants. Features adaptable styling suitable for various client environments, exceptional comfort for long days, and professional confidence.",
+        "price_with_discount": 195,
+        "orignal_price": 245,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 267,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a81401ce34194d2fcd0ab63",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/e519/1db9/00dd41b7be27/b07a5dde61c7/00396228800-a4o/00396228800-a4o.jpg?ts=1738254383481&w=320",
+        "rating_average": 2.4,
+        "reviews": []
+    },
+    {
+        "name": "Straight fit trousers Authoritative Authoritative",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Authoritative trousers designed for legal professionals. Features traditional styling with modern comfort, appropriate for courtroom appearances and law firm environments requiring professional gravitas.",
+        "price_with_discount": 255,
+        "orignal_price": 315,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 178,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a81401ce34194d2fcd0ab63",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/af20/1f9e/712d49898616/ea3c57e5c9bc/00394068800-a4o/00394068800-a4o.jpg?ts=1729760920591&w=320",
+        "rating_average": 4.8,
+        "reviews": []
+    },
+    {
+        "name": "Wide leg plush trousers Formal Busines",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Sophisticated formal trousers for international business settings. Features culturally neutral design, premium construction, and versatile styling appropriate for diverse global business environments.",
+        "price_with_discount": 225,
+        "orignal_price": 275,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 189,
+        "sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "Images": [],
+        "sub_category": "6a81401ce34194d2fcd0ab63",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/0073/06f2/31fd4aafbd95/688351c53bfb/05489732818-a4o/05489732818-a4o.jpg?ts=1719395322037&w=320",
+        "rating_average": 4.8,
+        "reviews": []
+    },
+    {
+        "name": "Straight fit trousers Legal Traditional",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Authoritative trousers designed for legal professionals. Features traditional styling with modern comfort, appropriate for courtroom appearances and law firm environments requiring professional gravitas.",
+        "price_with_discount": 255,
+        "orignal_price": 315,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 178,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a81401ce34194d2fcd0ab63",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/af20/1f9e/712d49898616/ea3c57e5c9bc/00394068800-a4o/00394068800-a4o.jpg?ts=1729760920591&w=320",
+        "rating_average": 3.8,
+        "reviews": []
+    },
+    {
+        "name": "Plush joggers Ultimate Ultimate",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Ultimate executive trousers representing the pinnacle of professional menswear. Features the finest materials, impeccable construction, and distinguished styling worthy of C-suite executives and industry leaders.",
+        "price_with_discount": 425,
+        "orignal_price": 525,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 45,
+        "sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "Images": [],
+        "sub_category": "6a813fe51dc23d05bcc4cd7f",
+        "main_category": "6a813fd31dc23d05bcc4cd7e",
+        "Image_Cover": "https://static.bershka.net/assets/public/bf95/0e66/795b41469667/c6a960270056/05491478800-a4o/05491478800-a4o.jpg?ts=1721897300596&w=320",
+        "rating_average": 4.3,
+        "reviews": []
+    },
+    {
+        "name": "100% LINEN SHIRT Regular Distinctd",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Regular fit linen shirt. Featuring a lapel collar, long sleeves with buttoned cuffs and a button-up front.",
+        "price_with_discount": 165.99,
+        "orignal_price": 189.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 102,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/0256/a35b/5eed433492e7/b55dc816a7e0/03090011406-e1/03090011406-e1.jpg?ts=1748937540765&w=800",
+        "rating_average": 3.5,
+        "reviews": []
+    },
+    {
+        "name": "LEAF PRINT SHIRT Relaxed Distincte",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made from a lightweight fabric. Featuring a lapel collar, short sleeves and a button-up front.",
+        "price_with_discount": 145.99,
+        "orignal_price": 188.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 271,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142fc6e1efb6e33738e9e",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/3a16/0b7e/4add4ecea749/9d63f44a91bc/04409607700-e1/04409607700-e1.jpg?ts=1740645159749&w=245",
+        "rating_average": 2.8,
+        "reviews": []
+    },
+    {
+        "name": "RELAXED FIT FLOWING SHIRT Lyocell Lyocell",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made in a lyocell blend fabric. Featuring a camp collar, short sleeves, a chest patch pocket and a button-up front.",
+        "price_with_discount": 162.99,
+        "orignal_price": 193.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 72,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/23a9/db37/ee914cbc8ba5/7639e3d9fb1e/01195430800-e1/01195430800-e1.jpg?ts=1740472785826&w=245",
+        "rating_average": 3.7,
+        "reviews": []
+    },
+    {
+        "name": "ABSTRACT PRINT SHIRT Flowing Distinctf",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made of a flowing viscose blend. Featuring a camp collar, short sleeves and a button-up front.",
+        "price_with_discount": 132.99,
+        "orignal_price": 150.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 72,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142fc6e1efb6e33738e9e",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/2725/bcac/53e640f9a913/5c0b18f12869/07545499920-e1/07545499920-e1.jpg?ts=1741163759527&w=245",
+        "rating_average": 1.3,
+        "reviews": []
+    },
+    {
+        "name": "COTTON - LINEN SHIRT Down Down",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made of a linen and cotton blend. Button-down collar. Long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.",
+        "price_with_discount": 170.99,
+        "orignal_price": 180.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 622,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/6041/5a55/f79e48e4965c/09e92e23c683/03715707700-e1/03715707700-e1.jpg?ts=1759135608685&w=563",
+        "rating_average": 1.5,
+        "reviews": []
+    },
+    {
+        "name": "LINEN/VISCOSE KNIT SHIRT Knit Knit",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit knit shirt in a spun linen and viscose blend. Featuring a lapel collar and short sleeves. Ribbed trims. Button-up front.",
+        "price_with_discount": 300.99,
+        "orignal_price": 350.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 302,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/293d/e450/46e64ea79a1e/cdf25cda2fd0/05755304700-e1/05755304700-e1.jpg?ts=1748609112809&w=245",
+        "rating_average": 2,
+        "reviews": []
+    },
+    {
+        "name": "STRETCH FLORAL PRINT SHIRT Elastic Elastic",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Shirt made from highly elastic fabric. Camp collar and short sleeves. Hem with side vents. Button-up front.",
+        "price_with_discount": 187.99,
+        "orignal_price": 234.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 189,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142fc6e1efb6e33738e9e",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/812b/6e0a/810d48b8ac2b/717010d49923/07545294401-e1/07545294401-e1.jpg?ts=1729158839235&w=245",
+        "rating_average": 3.3,
+        "reviews": []
+    },
+    {
+        "name": "EMBROIDERED COTTON-LINEN SHIRT Bowling Bowling",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made in a cotton and linen blend. Bowling collar and short sleeves. Matching embroidered detail on the front. Button-up front.",
+        "price_with_discount": 125.99,
+        "orignal_price": 140.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 112,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/ef7c/3a81/8e0a411ba0c0/1915bd015d4c/03772221251-e1/03772221251-e1.jpg?ts=1746021834464&w=245",
+        "rating_average": 3.9,
+        "reviews": []
+    },
+    {
+        "name": "SOFT COTTON SHIRT Relaxed Distinctg",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made of a soft cotton blend. Featuring a collared neckline, long sleeves with buttoned cuffs, a patch pocket on the chest and a button-up front..",
+        "price_with_discount": 254.99,
+        "orignal_price": 270.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 248,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/5c87/0cbc/6ab74e05b1de/cb1f8d372f9f/00975115710-e1/00975115710-e1.jpg?ts=1735808169180&w=245",
+        "rating_average": 4.2,
+        "reviews": []
+    },
+    {
+        "name": "WASHED TEXTURED SHIRT Camp Distincth",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt with a camp collar and short sleeves. Featuring a washed effect and a button-up front.",
+        "price_with_discount": 120.99,
+        "orignal_price": 160.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 48,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/9322/f981/868b4afc9568/2ed3226dce79/02688406251-e1/02688406251-e1.jpg?ts=1745827874885&w=245",
+        "rating_average": 3.2,
+        "reviews": []
+    },
+    {
+        "name": "ABSTRACT PRINT SHIRT Relaxed Distincti",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made of a flowing viscose blend. Featuring a camp collar, short sleeves and a button-up front.",
+        "price_with_discount": 200.99,
+        "orignal_price": 207.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 89,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142fc6e1efb6e33738e9e",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/8988/d7b3/1bac498e9769/594f3a4d8415/07545499707-e1/07545499707-e1.jpg?ts=1741688948947&w=245",
+        "rating_average": 2.2,
+        "reviews": []
+    },
+    {
+        "name": "COTTON - LINEN SHIRT Relaxed Distinctj",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made of a linen and cotton blend. Button-down collar. Long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.",
+        "price_with_discount": 354.99,
+        "orignal_price": 380.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 502,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8142ccbd2584477cf910ff",
+        "main_category": "6a81425bbd2584477cf910fc",
+        "Image_Cover": "https://static.zara.net/assets/public/bc07/f28f/f0434e8d8d1c/c8f46a2a24e6/01063305250-e1/01063305250-e1.jpg?ts=1735568191450&w=245",
+        "rating_average": 2.4,
+        "reviews": []
+    },
+    {
+        "name": "DRESS SHOES Derby Derby",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Derby style dress shoes. Plain upper. Pointed toe. Sole with slight heel.",
+        "price_with_discount": 104.28,
+        "orignal_price": 129.42,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 421,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/a3e3/5719/37d547978ca1/f6824f2a91a1/12401520700-e1/12401520700-e1.jpg?ts=1731579938605&w=245",
+        "rating_average": 1.2,
+        "reviews": []
+    },
+    {
+        "name": "KNITTED TRAINERS shoes Knitted Knitted",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Knitted lace-up trainers in breathable fabric. Round toe. Matching sole.",
+        "price_with_discount": 52.72,
+        "orignal_price": 63.63,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 389,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/53e8/d24a/fa674b95bace/d606a0d2df1c/12238520802-e1/12238520802-e1.jpg?ts=1739894754287&w=245",
+        "rating_average": 1.8,
+        "reviews": []
+    },
+    {
+        "name": "FORMAL SHOES Plain Shoe",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Derby shoes. Plain upper. Round toe. Sole with slight heel.",
+        "price_with_discount": 117.59,
+        "orignal_price": 131.62,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 433,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/4471/7535/59c14a02b344/02ede85c4425/12400520800-e1/12400520800-e1.jpg?ts=1730217206858&w=245",
+        "rating_average": 4.3,
+        "reviews": []
+    },
+    {
+        "name": "KNITTED ESPADRILLES Breathable Espadrille",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Knitted espadrilles made of breathable fabric. Pull tab at the back for slipping on with ease. Jute-covered sole.",
+        "price_with_discount": 127.42,
+        "orignal_price": 146.67,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 367,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/bf05/d2ce/e8ce4dae8899/51b479d36e97/12740520719-e1/12740520719-e1.jpg?ts=1740138753683&w=245",
+        "rating_average": 1.7,
+        "reviews": []
+    },
+    {
+        "name": "SMART PENNY LOAFERS Smart Smart",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Smart loafers. Plain upper with penny strap detail. Matching insole and lining. Track sole.",
+        "price_with_discount": 75.85,
+        "orignal_price": 84.26,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 426,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/524b/9def/98714fd0902a/5f7bfa13a13b/12611420800-e1/12611420800-e1.jpg?ts=1722336244132&w=245",
+        "rating_average": 2.8,
+        "reviews": []
+    },
+    {
+        "name": "KNITTED CHUNKY TRAINERS Lace Lace",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Lace-up trainers in breathable knitted fabric. Chunky sole with an irregular finish.",
+        "price_with_discount": 92.49,
+        "orignal_price": 109.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 392,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/0cc1/5db8/64c74259ae96/ad3e991d37eb/12334420202-e1/12334420202-e1.jpg?ts=1736766725576&w=245",
+        "rating_average": 2.6,
+        "reviews": []
+    },
+    {
+        "name": "CONTRAST LEATHER PENNY LOAFERS Penny Penny",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Penny loafers. Leather upper with contrast colours. Leather insole. Rounded toe. Sole with slight heel.",
+        "price_with_discount": 88.75,
+        "orignal_price": 102.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 317,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/5b84/4cda/dc3d4ae78df1/8bbe8b7ce498/12610520202-e1/12610520202-e1.jpg?ts=1731064848536&w=245",
+        "rating_average": 1.7,
+        "reviews": []
+    },
+    {
+        "name": "BASIC TRAINERS Basic Basic",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Basic lace-up trainers. Plain upper. Contrast lining and insole.",
+        "price_with_discount": 59.95,
+        "orignal_price": 69.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 288,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/0a6e/f090/f80a4b0d8ad7/81ff417f4d61/12200520102-e1/12200520102-e1.jpg?ts=1735834032979&w=245",
+        "rating_average": 4.5,
+        "reviews": []
+    },
+    {
+        "name": "TASSEL DRESS LOAFERS Dress Loafer",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Dress loafers. Plain upper with tassel detail. Matching lining and insole. Round toe. Sole with slight heel.",
+        "price_with_discount": 84.49,
+        "orignal_price": 94.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 332,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/3ba1/fb9f/31f44acd8582/4aa34ae43d91/12600620800-e1/12600620800-e1.jpg?ts=1746518598641&w=245",
+        "rating_average": 2,
+        "reviews": []
+    },
+    {
+        "name": "EMBOSSED TRAINERS Embossed Trainer",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Trainers. Featuring an embossed decorative detail on the upper and elastic side panels for slipping on with ease.",
+        "price_with_discount": 54.99,
+        "orignal_price": 64.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 273,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/a715/38a8/2e7c4c738668/78f01065d0c0/12294320800-e1/12294320800-e1.jpg?ts=1727005481659&w=245",
+        "rating_average": 4.9,
+        "reviews": []
+    },
+    {
+        "name": "BASIC TRAINERS Smooth Smooth",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Basic lace-up trainers. Smooth upper. Contrast lining and insole.",
+        "price_with_discount": 49.99,
+        "orignal_price": 59.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 314,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/47b1/b101/4e574d319a65/1b0923d0b05c/12218420001-e1/12218420001-e1.jpg?ts=1722335090639&w=245",
+        "rating_average": 2.6,
+        "reviews": []
+    },
+    {
+        "name": "STRIPED FABRIC ESPADRILLES Pull Pull",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Cotton fabric espadrilles. Features a pull tab at the back for easy on/off. Jute-covered sole.",
+        "price_with_discount": 39.99,
+        "orignal_price": 49.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 271,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/cd7e/bfc1/9e434cfe98df/e5eeddd7156b/12728520202-e1/12728520202-e1.jpg?ts=1739976068442&w=245",
+        "rating_average": 4.3,
+        "reviews": []
+    },
+    {
+        "name": "RETRO STYLE TRAINERS Retro Retro",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Retro style trainers. Upper made from a combination of pieces. Chunky sole.",
+        "price_with_discount": 49.99,
+        "orignal_price": 64.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 314,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/c516/21f3/716c42cca5d5/68de286b14c0/12201620001-e1/12201620001-e1.jpg?ts=1746518525607&w=245",
+        "rating_average": 4.5,
+        "reviews": []
+    },
+    {
+        "name": "TECHNICAL TRAINERS Upper Breathable",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Technical trainers. Breathable technical fabric upper. Chunky lightweight sole.",
+        "price_with_discount": 54.99,
+        "orignal_price": 64.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 298,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/2905/9de0/351e486b99a2/a951064e09e0/12336520202-e1/12336520202-e1.jpg?ts=1738165133312&w=245",
+        "rating_average": 3.6,
+        "reviews": []
+    },
+    {
+        "name": "EMBOSSED TRAINERS Decorative Embossed",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Trainers featuring an embossed decorative detail on the upper and elastic side panels for slipping on with ease.",
+        "price_with_discount": 47.99,
+        "orignal_price": 59.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 276,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a81446e05df5a2edb395a8d",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/4df0/3b6a/ce1d4d5e845a/dc5f92bbb9ee/12294320001-e1/12294320001-e1.jpg?ts=1726995872973&w=245",
+        "rating_average": 1.9,
+        "reviews": []
+    },
+    {
+        "name": "SNEAKERS WITH CONTRAST SOLES Combination Combination",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Retro style trainers. Upper made from a combination of panels. Contrast sole.",
+        "price_with_discount": 52.99,
+        "orignal_price": 64.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 322,
+        "sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "Images": [],
+        "sub_category": "6a8144911caa67baed536c9e",
+        "main_category": "6a81443f76f3cd42c501a603",
+        "Image_Cover": "https://static.zara.net/assets/public/f3ac/1935/ad304f2b959b/6baa191cfc75/12258520001-e1/12258520001-e1.jpg?ts=1741099681069&w=245",
+        "rating_average": 4.8,
+        "reviews": []
+    },
+    {
+        "name": "Oversize tie-dye short sleeve  Garments Useful",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Caring for your garments is a way to extend their useful life. Follow the care instructions and only wash your garments when necessary. Washing and drying our garments less often extends their lives and reduces water and energy use.",
+        "price_with_discount": 120.99,
+        "orignal_price": 150.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 211,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814676298d91341709653e",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/b090/5e5d/bfdd4dc5a6c9/3beefd283b5f/02925538802-a4o/02925538802-a4o.jpg?ts=1743508929662&w=800",
+        "rating_average": 4.2,
+        "reviews": []
+    },
+    {
+        "name": "Textured striped short sleeve T-shirt Round",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "100% cotton T-shirt with a round neck and short sleeves. Textured striped design.",
+        "price_with_discount": 115.99,
+        "orignal_price": 149.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 182,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a81465ceaebab289e884a7b",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/e5fe/31e6/e5374285a170/cde9dd613394/02781376711-a4o/02781376711-a4o.jpg?ts=1738060239330&w=800",
+        "rating_average": 3.9,
+        "reviews": []
+    },
+    {
+        "name": "print plush short sleeve T-shirt Relaxed",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made from a lightweight fabric. Featuring a lapel collar, short sleeves and a button-up front.",
+        "price_with_discount": 133.99,
+        "orignal_price": 153.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 421,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/0581/454f/b9ef4f14b383/974ae4de104e/02896777800-a4o/02896777800-a4o.jpg?ts=1740135311229&w=800",
+        "rating_average": 2.4,
+        "reviews": []
+    },
+    {
+        "name": "Short sleeve plush Relaxed T-shirt",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made in a lyocell blend fabric. Featuring a camp collar, short sleeves, a chest patch pocket and a button-up front.",
+        "price_with_discount": 111.99,
+        "orignal_price": 130.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 72,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/0bfb/25a8/328f45578956/57d0f1a99d4b/02807190594-a4o/02807190594-a4o.jpg?ts=1739291400222&w=800",
+        "rating_average": 1.7,
+        "reviews": []
+    },
+    {
+        "name": "ABSTRACT PRINT SHIRT Relaxed",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit shirt made of a flowing viscose blend. Featuring a camp collar, short sleeves and a button-up front.",
+        "price_with_discount": 132.99,
+        "orignal_price": 150.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 72,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/43e2/9e4b/9ec648f7bce2/8bb7bf060092/02934696400-a4o/02934696400-a4o.jpg?ts=1739966173871&w=800",
+        "rating_average": 3.1,
+        "reviews": []
+    },
+    {
+        "name": "Short sleeve textured weave T-shirt Crew",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit T-shirt made of a textured cotton blend. Crew neck. Short sleeves.",
+        "price_with_discount": 199.99,
+        "orignal_price": 212.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 302,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/df74/effb/fd8d4605be0c/c6addd01d4be/02780715800-a4o/02780715800-a4o.jpg?ts=1736937812903&w=800",
+        "rating_average": 4,
+        "reviews": []
+    },
+    {
+        "name": "LINEN/VISCOSE KNIT Relaxed SHIRT",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit knit shirt in a spun linen and viscose blend. Featuring a lapel collar and short sleeves. Ribbed trims. Button-up front.",
+        "price_with_discount": 165.99,
+        "orignal_price": 186.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 200,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/9a71/e3b9/72b64b18bf8a/2eeea6746996/02932071250-a4o/02932071250-a4o.jpg?ts=1744639594887&w=800",
+        "rating_average": 3.5,
+        "reviews": []
+    },
+    {
+        "name": "Waffle-knit boxy fit short sleeve T-shirt ",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Boxy fit T-shirt made of a textured cotton blend. Crew neck. Short sleeves.",
+        "price_with_discount": 233.99,
+        "orignal_price": 246.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 149,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a81465ceaebab289e884a7b",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/5212/5fb4/8f4547738a5f/e10be9da9877/02905732818-a4o/02905732818-a4o.jpg?ts=1743508364907&w=800",
+        "rating_average": 4.3,
+        "reviews": []
+    },
+    {
+        "name": "Printed short sleeve oversize T-shirt ",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit T-shirt made of a textured cotton blend. Crew neck. Short sleeves.",
+        "price_with_discount": 230.99,
+        "orignal_price": 250.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 238,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/bbee/825b/679c4440b593/760f06a0c350/02948696902-a4o/02948696902-a4o.jpg?ts=1743431890946&w=800",
+        "rating_average": 1.8,
+        "reviews": []
+    },
+    {
+        "name": "Short sleeve Relaxed T-shirt with print",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit T-shirt made of a textured cotton blend. Crew neck. Short sleeves.",
+        "price_with_discount": 115.99,
+        "orignal_price": 150.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 56,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/113a/4eb8/7b0f4fdca6d8/98847ce9af71/07998538251-a4o/07998538251-a4o.jpg?ts=1747668908254&w=800",
+        "rating_average": 2.2,
+        "reviews": []
+    },
+    {
+        "name": "Short sleeve Relaxed T-shirt ",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Relaxed fit T-shirt made of a textured cotton blend. Crew neck. Short sleeves.",
+        "price_with_discount": 134.99,
+        "orignal_price": 187.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 69,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a814639e33e1f37dc243471",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/ffe5/02ec/22974baf82d6/277b1f238b64/08005112800-a4o/08005112800-a4o.jpg?ts=1747822644771&w=800",
+        "rating_average": 4,
+        "reviews": []
+    },
+    {
+        "name": "Extra-loose short sleeve printed T-shirt Extra Distincts",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Extra-loose short sleeve printed T-shirt made of a textured cotton blend. Crew neck. Short sleeves.",
+        "price_with_discount": 214.99,
+        "orignal_price": 237.99,
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 120,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8146a4a5ca685c6a11c899",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.bershka.net/assets/public/ea7c/cf94/c4694dfa9162/918ea1d097f8/02866492800-a4o/02866492800-a4o.jpg?ts=1738670180943&w=800",
+        "rating_average": 4.5,
+        "reviews": []
+    },
+    {
+        "name": "t shirt MEDIUM WEIGHT basic Lighter",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Regular fit T-shirt with a round neck and short sleeves.\nLighter than our basic Heavyweight style.",
+        "price_with_discount": "150",
+        "orignal_price": "180",
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 169,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8146b7926717229917ce76",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.zara.net/assets/public/b499/4a14/f02d48e49663/3475ce6b314c/01887420104-e1/01887420104-e1.jpg?ts=1751541885974&w=290",
+        "rating_average": 2.7,
+        "reviews": []
+    },
+    {
+        "name": "short sleeve Regular T-SHIRT Contrasting",
+        "brand": "6a81e94575d26ef6cb777a6d",
+        "quantity": 10,
+        "descraption": "Regular fit T-shirt. Round neck and short sleeve. Featuring a chest patch pocket detail with contrasting embroidery.",
+        "price_with_discount": "170",
+        "orignal_price": "210",
+        "colors": [
+            "orignal",
+            "#ffffff"
+        ],
+        "sold": 131,
+        "sizes": [
+            "L",
+            "M",
+            "S",
+            "XL",
+            "XXL"
+        ],
+        "Images": [],
+        "sub_category": "6a8146b7926717229917ce76",
+        "main_category": "6a8144bb6534227df980a4d4",
+        "Image_Cover": "https://static.zara.net/assets/public/b9bd/f2b2/dc5441f9b12b/21ab54e9fb0d/04092317428-e1/04092317428-e1.jpg?ts=1751893037182&w=563",
+        "rating_average": 4.6,
+        "reviews": []
+    }
+]
