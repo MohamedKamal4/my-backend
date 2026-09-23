@@ -10,10 +10,12 @@ const { insertImages } = require("../controlers/requests/insert_images")
 const { prodect_routes, allowdTo } = require("../controlers/auth_controlers")
 const cart_routes = require("./cart_routes")
 const order_routes = require("./order_routes")
+const favorite_routes = require("./favorite_routes")
 const router = express.Router()
 
 router.use("/me/cart", cart_routes)
 router.use("/me/orders", order_routes)
+router.use("/me/favorites", favorite_routes)
 
 router.route('/')
     .get(

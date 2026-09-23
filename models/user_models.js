@@ -38,8 +38,7 @@ const userSchema = new mongoose.Schema({
     },
     cart: [{
         product: {
-            type: mongoose.Schema.Types.ObjectId,
-            ref: "products",
+            type: mongoose.Schema.Types.Mixed,
             required: true
         },
         size: {
@@ -53,11 +52,13 @@ const userSchema = new mongoose.Schema({
             required: true
         }
     }],
+    favorites: [{
+        type: mongoose.Schema.Types.Mixed
+    }],
     orders: [{
         items: [{
             product: {
-                type: mongoose.Schema.Types.ObjectId,
-                ref: "products",
+                type: mongoose.Schema.Types.Mixed,
                 required: true
             },
             size: {

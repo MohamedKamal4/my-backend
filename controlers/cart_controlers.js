@@ -3,11 +3,12 @@ const userModel = require("../models/user_models")
 const productsModel = require("../models/products_model")
 const ApiError = require("../utils/api_error")
 
-const getUserCart = (userId) => userModel.findById(userId).populate("cart.product")
+const getProductId = (product) => product?._id?.toString() || product?.toString()
+
+const getUserCart = (userId) => userModel.findById(userId)
 
 exports.getCart = AsyncHandler(async (req, res) => {
     const user = await getUserCart(req.user._id)
-    console.log("getCart" , req.user)
     res.status(200).json({
         results: user.cart.length,
         data: user.cart
@@ -24,13 +25,14 @@ exports.addToCart = AsyncHandler(async (req, res, next) => {
 
     const user = await userModel.findById(req.user._id)
     const cartItem = user.cart.find((item) =>
-        item.product.toString() === productId && item.size === size
+        getProductId(item.product) === productId && item.size === size
     )
 
     if (cartItem) {
+        cartItem.product = product.toObject()
         cartItem.quantity += quantity
     } else {
-        user.cart.push({ product: productId, quantity, size })
+        user.cart.push({ product: product.toObject(), quantity, size })
     }
 
     await user.save()
@@ -42,15 +44,17 @@ exports.addToCart = AsyncHandler(async (req, res, next) => {
 exports.updateCartItem = AsyncHandler(async (req, res, next) => {
     const { productId, size } = req.params
     const { quantity } = req.body
-    const user = await userModel.findOneAndUpdate(
-        { _id: req.user._id, cart: { $elemMatch: { product: productId, size } } },
-        { $set: { "cart.$[item].quantity": quantity } },
-        { arrayFilters: [{ "item.product": productId, "item.size": size }], new: true, runValidators: true }
+    const user = await userModel.findById(req.user._id)
+    const cartItem = user.cart.find((item) =>
+        getProductId(item.product) === productId && item.size === size
     )
 
-    if (!user) {
+    if (!cartItem) {
         return next(new ApiError("Cart item not found", 404))
     }
+
+    cartItem.quantity = quantity
+    await user.save()
 
     const updatedUser = await getUserCart(req.user._id)
     res.status(200).json({ data: updatedUser.cart })
@@ -58,18 +62,17 @@ exports.updateCartItem = AsyncHandler(async (req, res, next) => {
 
 exports.removeFromCart = AsyncHandler(async (req, res, next) => {
     const { productId, size } = req.params
-    const user = await userModel.findOneAndUpdate(
-        { _id: req.user._id, cart: { $elemMatch: { product: productId, size } } },
-        { $pull: { cart: { product: productId, size } } },
-        { new: true }
+    const user = await userModel.findById(req.user._id)
+    const cartItemIndex = user.cart.findIndex((item) =>
+        getProductId(item.product) === productId && item.size === size
     )
 
-    console.log(user)
-
-    if (!user) {
+    if (cartItemIndex === -1) {
         return next(new ApiError("Cart item not found", 404))
     }
 
+    user.cart.splice(cartItemIndex, 1)
+    await user.save()
     res.status(204).send()
 })
 
