@@ -24,12 +24,22 @@ exports.register = AsyncHandler( async (req , res ) => {
 exports.login = AsyncHandler( async (req , res , next ) => {
     const { email } = req.body
     const user = await userModel.findOne({email})
+
+    await userModel.findByIdAndUpdate(user._id, { $unset: { logoutAt: 1 } })
    
     const userId = user._id
     const token = generate_token({userId , email})
     const data = {user , token }
 
     res.status(200).json(data)
+})
+
+exports.logout = AsyncHandler(async (req, res) => {
+    await userModel.findByIdAndUpdate(req.user._id, { logoutAt: new Date() })
+
+    res.status(200).json({
+        message: "Logged out successfully. Delete the token from the client."
+    })
 })
 
 
@@ -69,6 +79,13 @@ exports.prodect_routes = AsyncHandler( async (req , res , next) => {
         // 2) if passwordTimestemp > decoded.iat ==> changed the password after created the token is (error)
         if(passwordTimestemp > decoded.iat){
             return next(new ApiError("The User Recently Changed His Password You Must Login Again..." , 401))
+        }
+    }
+
+    if(user.logoutAt){
+        const logoutTimestamp = parseInt(user.logoutAt.getTime() / 1000, 10)
+        if(logoutTimestamp >= decoded.iat){
+            return next(new ApiError("You Are Logged Out, You Must Login Again..." , 401))
         }
     }
 

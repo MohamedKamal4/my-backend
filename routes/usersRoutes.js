@@ -41,12 +41,14 @@ router.route('/')
 router.route('/:id')
     .get(
         prodect_routes ,
+        allowdTo("admin") ,
         validator_get_User_rules ,
         handling_validation_error_middleware ,
         GetSpecificUser
     )
     .put(
         prodect_routes ,
+        allowdTo("admin") ,
         validator_update_User_rules ,
         handling_validation_error_middleware ,
         updateUser

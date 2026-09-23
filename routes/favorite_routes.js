@@ -6,7 +6,7 @@ const {
     removeFavorite,
     clearFavorites
 } = require("../controlers/favorite_controlers")
-const { prodect_routes } = require("../controlers/auth_controlers")
+const { prodect_routes, allowdTo } = require("../controlers/auth_controlers")
 const { handling_validation_error_middleware } = require("../middlewares/validator_middleware")
 const {
     validator_add_favorite_rules,
@@ -19,8 +19,14 @@ const router = express.Router()
 router.use(prodect_routes)
 
 router.route("/")
-    .get(getFavorites)
+    .get(
+        prodect_routes ,
+        allowdTo("user") ,
+        getFavorites
+    )
     .post(
+        prodect_routes ,
+        allowdTo("user") ,
         validator_add_favorite_rules,
         handling_validation_error_middleware,
         addFavorite
@@ -29,11 +35,15 @@ router.route("/")
 
 router.route("/:productId")
     .put(
+        prodect_routes ,
+        allowdTo("user") ,
         validator_update_favorite_rules,
         handling_validation_error_middleware,
         updateFavorite
     )
     .delete(
+        prodect_routes ,
+        allowdTo("user") ,
         validator_delete_favorite_rules,
         handling_validation_error_middleware,
         removeFavorite
